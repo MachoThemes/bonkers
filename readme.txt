@@ -98,6 +98,10 @@ Any other image included & distributed with the theme has been licensed under th
 
 == Changelog ==
 
+= 1.0.5 =
+* Released: October 18, 2019
+- Security Fix
+
 = 1.0.2 =
 * Released: January 31, 2018
 - Prefixed js function
